@@ -55,7 +55,7 @@
         "react-native-status-bar-height": "^2.5.0",
         "react-native-stripe-checkout-webview": "0.0.7",
         "react-native-web": "~0.11.7",
-        "react-native-webview": "^8.1.1",
+        "react-native-webview": "^11.0.0",
         "react-qr-code": "^1.0.3",
         "react-redux": "^7.2.1",
         "redux": "^4.0.5",
